@@ -11,7 +11,7 @@
                    <key>kind</key>   
                    <string>software-package</string>   
                    <key>url</key>   
-                   <string>http://122.224.233.66:6194/upload/ios.ipa</string>
+                   <string>http://183.129.131.146:8080/upload/ios.ipa</string>
                </dict>   
            </array>   
            <key>metadata</key>   
